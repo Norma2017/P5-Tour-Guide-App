@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imaw">84dp</dimen>
+    <dimen name="mr">16dp</dimen>
+    <dimen name="mttv1">8dp</dimen>
+</resources>

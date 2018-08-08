@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">P5-TourGuideTerceiraIsland</string>
+
+    <!-- Experiences in Nature 1 -->
+    <string name="experiences1_name">Birds Watching</string>
+    <string name="experiences1_address">Serra da Cume</string>
+    <string name="experiences1_description">The island of Terceira is a hotspot for rarities and for the visit of endangered species, especially in and around Praia da Vitória. Due to its location and characteristics, the island provides migratory birds with refuge, feeding and resting areas.
+    The island features some internationally renowned bird-watching spots, including the marsh Paul da Praia da Vitória, located in the city’s urban center, which is rare in the region of Macaronesia, the marsh Paul da Pedreira do Cabo da Praia, internationally known as the best site in the Western Palearctic for spotting birds from North America, and the marsh Paul do Belo Jardim.
+    Bird watching should be done in a way that does not interfere with the natural behavior of the different species and preferably accompanied by a guide.
+    </string>
+    <string name="experience2_name">Whalet Watching</string>
+    <string name="Whalet_Watching">Discover the magnificent south coast of the island of Terceira, watching dolphins and whales in their natural habitat, taste the flavors of our land and visit a unique natural reserve: this is the experience that you propose. The trip will be a real expedition because we are invited, not only to know the natural habitat of the magnificent cetaceans, as also the Islet of goats, one of the exclusive zones of the island (due to access by sea) and classified as Special Protection Area.</string>
+    <string name="experience3_name">Walking Trails</string>
+    <string name="Walking_Trails">For centuries, in Azores, the easiest way to travel to the different locations on the same island, was by boat. There were few roads and even in fewer where people could take a carriage or an ox cart. Mostly there were walking paths, through which farmers on their daily routines would pass, bringing off course the horses, donkeys and mules. Cattle would also use them on their way to the pasture and back as well as the people to go to festivities near by and trade farm products, fish, coal and other merchandises. Anything bigger was transported through the ocean.
+ 	Those walking trails have been renovated and prepared to be used by anyone who wants to get in touch with the landscape. In reality, each of the trails lead to amazingly beautiful places, connecting the farthest corners of each island, weather it is close to the coast line or in altitude.
+    </string>
+    <string name="experience4_name">Diving</string>
+    <string name="Diving">The underwater discovery of the island of Terceira is fascinating! It is possible to enjoy the most diverse underwater settings such as the Archaeological Park of Angra, small islets, underwater shoals and volcanic caves and reefs. Discovering the submerged world among the ballet of the many species of fish that inhabit the volcanic seabed is a unique and unforgettable experience that the island’s many professional divers can provide.
+    </string>
+
+    <!-- Experiences in Beach 2 -->
+    <string name="experience5_name">Negrito Bathing Site</string>
+    <string name="Negrito_Bathing">The Negrito is situated in São Mateus da Calheta and is next to an old and small fort, built in 1581. It is a beach area formed by a bay with flat bottoms. It has a fairly low coastline and is mostly composed of large basalt slabs.</string>
+    <string name="experience6_name">Salga Bathing Site</string>
+    <string name="Salga_Bathing">On the south coast of Terceira Island, Baía da Salga is a quiet area with excellent conditions for bathing and sunbathing. The beach area has good infrastructures support  and is very close to a campsite.</string>
+    <string name="experience7_name">Prainha Bathing Site</string>
+    <string name="Prainha_Bathing">Also known as Prainha, this is the most central beach in the magnificent World Heritage City, Angra do Heroísmo, on Terceira Island, Archipelago of the Azores. Located next to the Marina of the city, it is very frequented by presenting good access and infrastructures nearby, and being the only sandy beach in the fabulous Bay of Angra do Heroísmo.</string>
+    <string name="experience8_name">Biscoitos Bathing Site</string>
+    <string name="Biscoitos_Bathing">Located on the north coast of Terceira Island, the bathing area of Biscoitos consists of natural pools outlined among the curious configurations of black rocks resulting from volcanic eruptions. With good support infrastructures, this area attracts many bathers, but also all those who like to contemplate nature and who find here a very beautiful landscape, made of contrasts between the dark basalt and the blue of the sea.A rural area par excellence, the Biscoitos area is also a well-known wine-growing region where the famous verdelho wine of the Azores is produced.</string>
+    <string name="experience9_name">Quatro Ribeiras Bathing Site</string>
+    <string name="Quatro_Ribeiras">These natural pools are located in the northeast of Terceira Island and are pools formed by volcanic rock, surrounded by endemic flora.
+    </string>
+
+    <!-- Experiences in Geosites 3 -->
+    <string name="experience10_name">Algar do Carvão Natural Reserve</string>
+    <string name="Algar_do_Carvão">The great eruption, known as the Pico Alto, which occurred north of the existing Guilherme Moniz volcanic apparatus, poured its lavas from a great distance. Later, a new eruption, this time basaltic, tore the ground and initiated a process that would lead to the formation of a stromboliano volcano – the Peak of the Coal. In a first phase, by forcing and trying to break the existing trachytic effusion, which constituted a natural barrier of little consistency, it formed the zone of the lagoon and the two vaults on it. Later, in a new attempt of evasion, the basaltic lavas, they broke more to the side the current chimney, leaving to the outside. In its final phase the magma descended into the deepest conduits and the magma chamber, giving rise, this almost instantaneous absence of magma, to the formation of the Algar proper. Very effusive lava spills produced very flowing acidic lava rivers that charred existing vegetation. The dating of one of the fossils then formed gives the Algar do Carvão an age of 2148 (+ or-115 years).</string>
+    <string name="experience11_name">Gruta do Natal (Christmas Cave)</string>
+    <string name="Gruta_do_Natal">The Christmas (Gruta do Natal), Cave is located in the middle of Terceira Island: it belongs to the Protected Area of Santa Barbara/Mistérios Negros. It’s one of three touristic caves of Terceira Island. Inside you may see many geological structures such as: different types of lava flows, stalifites and small lateral “counters”. It’s like a didactic space, where more and more people visit to understand better the volcanic activity responsible for the genesis of these islands. The cave was probably formed by lavas of a nearby fissural eruption but there isn’t much data about the year of the eruption. This lava tube has 697m of extension and it’s easy to walk inside.</string>
+    <string name="experience12_name">Caldeira Guilherme Moniz</string>
+    <string name="Caldeira_Guilherme_Moniz">The Guilherme Moniz–Pico Alto volcano, the second to emerge from the ocean, occupies the entire central zone of Terceira Island. The landscapes are shaped by the impressive Caldeira de Guilherme Moniz crater, with lava fields, lava domes, fumaroles and lava caves with springs of crystal clear water, the lava domes and flows of Pico Alto, and the south side of the Serra do Morião range, which includes Monte Brasil. Here you can appreciate both the natural landscape, characterized by rocky outcrops in the natural woodland, and the humid zones, whose landscape has been altered by man, where the wild cattle, such as the fighting bull, are most commonly seen.</string>
+    <string name="experience13_name">Ponta da Serreta</string>
+    <string name="Ponta_da_Serreta">Located on the westernmost zone of the island, in the surroundings of the Serreta lighthouse in the Habitat / Species Management Area of Planalto Central and Costa Noroeste, is located Ponta da Serreta with 600m long and 400m wide. Here you can view the process of colonization of lava fields through coastal populations of Heather (Erica azorica). The most abundant marine birds in the Azores, the Cory’s Shearwater (Calonectris diomedea borealis) finds in these cliffs the ideal reproduction spot. You can contemplate the ocean and admire the Graciosa island.</string>
+
+    <!-- Experiences with typical food 3-->
+    <string name="experience14_name">Seafood</string>
+    <string name="Sea_food">On Terceira island, you can find a kind of barnacle known as cracas (CRAH-cush) (not to be confused with percebes, or gooseneck barnacles, from mainland Portugal), which easily could be mistaken for chunks of rocks. These are boiled in seawater and served chilled, with a small prying device that looks like a piece of dental equipment. Your efforts are rewarded with the taste, which is sweet and briny and precisely of the sea, like the best crab you’ve ever tried. Track them down at Beira Mar restaurant in the village of São Mateus or Cais de Angra in Angra do Heroismo. And “we have great lobster,” says Rocha, referring to a local variety known as cavaco that I heard about but never managed to track down. If you find restaurant that has it, order it — word is it’s exceedingly delicate and tender.</string>
+    <string name="experience15_name">Wine</string>
+    <string name="Wine">Prior to the 1857 phylloxera outbreak, all nine of the Azorian islands produced wine. Today, Terceira, Pico and Graciosa are the three remaining wine producing islands. In the mid-15th century, Franciscan friars played a major role in the introduction of vineyards to the Azores. Historically, Verdelho, the key Azorian grape used in wine, was exported during the 17th and 18th century to northern Europe. Legend has it that when the communist revolution of 1917 ended, bottles of ‘Verdelho’ were found in the Russian Tsar’s cellars. The three wine producing islands are DOC’s of volcanic origin. Pico produces the most wines of the three islands due to the fact that the soil is a black basaltic, which supports vine growth. There was a burst in winemaking in the 1990’s, when winemakers began producing wines from the three traditional grapes, Verdelho, Arinto and Terrantez. </string>
+    <string name="experience16_name"> Beef</string>
+    <string name="Beef">Alcatra, a famous dish from Terceira island that’s a lot like pot roast: Beef rump is slow-cooked with red wine, onions, garlic, allspice and black peppercorns (nodding to the Azores’ importance back in the spice-trade era) until it’s falling-apart tender. It’s served with masa souvlada, a puffy, lightly sweet bread that’s a nice foil for the salty meat.</string>
+    <string name="experience17_name">Soups and stews</string>
+    <string name="Soups_and_stews">Soups and stews are a huge part of Azorean cuisine, which is at its heart a cucina povera that’s all about making something delicious out of limited ingredients. With so many volcanic eruptions and earthquakes afflicting the islands, Azoreans are quite Catholic; one hugely important dish is Holy Ghost soup, which is served at the Holy Ghost celebrations you’ll find all over the islands on the eight Sundays following Easter. It famously features bread soaked in broth made from beef, chicken, pork, potatoes, cabbage and other ingredients, which are served in a different dish.</string>
+    <string name="experience18_name">Carbs</string>
+    <string name="Carbs">As a historic seat of Portuguese Catholic power, the Azores had many convents back in the day, each producing their own typical pastries. Many of these can still be found in bakeries around the islands. In Angra de Heroismo on Terceira, visit O Forno bakery to try the Dona Amelia, a custard tart made with cinnamon, honey, and raisins. You can also dig into other sweets made with the island’s tropical fruits, like mini cornucopias oozing with passion fruit filling. Typical breads also abound, including the alcatra accompaniment, masa souvlada, and bolo levedo, a flatbread from Furnas that’s a dead ringer for an English muffin.</string>
+
+    <!-- Category name for nature [CHAR LIMIT=20] -->
+    <string name="category_nature">Nature</string>
+
+    <!-- Category name for beach [CHAR LIMIT=20] -->
+    <string name="category_beach">Beach</string>
+
+    <!-- Category name for the geosites [CHAR LIMIT=20] -->
+    <string name="category_geosites">Geosites</string>
+
+    <!-- Category name for food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+</resources>
